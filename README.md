@@ -1,6 +1,6 @@
 ## Repositório Engenharia de Produção 
 <p align="justify">
-Neste repositório apresento as aplicações das linguagens de programação Python e R como ferramentas úteis para atividades inerentes a de um engenheiro de produção.
+Neste repositório apresento as aplicações das linguagens de programação Python e R como ferramentas úteis para algumas atividades de um engenheiro de produção.
 </p>
 
 #### 🖥️ Tecnologias e ferramentas utilizadas neste repositório:
